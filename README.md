@@ -1,0 +1,2 @@
+# libnativehelper
+Motorola libnativehelper
